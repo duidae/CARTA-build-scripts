@@ -4,7 +4,7 @@ export PATH=/usr:$PATH
 
 export PATH=/usr/local/lib:$PATH
 
-export PATH=/opt/Qt/5.3/gcc_64/bin:$PATH
+export PATH=/opt/Qt/5.7/gcc_64/bin:$PATH
 
 qmake --version
 
