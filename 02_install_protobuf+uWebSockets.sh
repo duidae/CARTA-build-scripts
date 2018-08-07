@@ -2,5 +2,5 @@
 
 cd ../CARTAvis/carta/scripts/
 
-sudo ./install_protobuf.sh
+sudo ./install_protobuf+uWebSockets.sh
 
